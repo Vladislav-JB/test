@@ -29,7 +29,7 @@
 
 ---
 
-## Используемые инструменты и платформы
+## Используемые инструменты, сервисы и платформы
 
 - **Нейросетевые модели:** OpenAI (GPT, ChatGPT, DALL-E, Whisper), YandexGPT, Yandex-ART, Claude, Gemini, GigaChat, ElevenLabs, LLama и другие.
 - **Сервисы и платформы:** LangChain, Voiceflow, Zapier, Make, Google Colab, Hugging Face, Albato, Wazzap, AmoCRM, Playground, Creatium, Tilda, Koyeb, PyCharm, Replit, GitHub, Google Cloud, Yandex Cloud.
