@@ -12,6 +12,7 @@
 
 **Ссылка на портфолио:**  https://github.com/Vladislav-JB?tab=repositories
 
+**Ссылка на проект в порфолио:** [ИИ-ассистент](https://vladislav-jb.github.io/ai-assistent/)
 ---
 
 ## Целевое назначение
